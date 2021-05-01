@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619829303 source:c:\users\soare\onedrive\Área de trabalho\flamengo\cifra\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
